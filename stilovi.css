@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+p {
+	font-size: 18px;
+	background-color: azure;
+	padding: 10px;
+	border: double; 
+	line-height: 25px;
+	border-width:medium;
+	width: 800px; 
+	border-radius: 5px;
+	
+}
+
+body {
+	background-image:url("88e31535673211e65c2e2ca15e2ce444.jpg"); 
+}
+
+li{
+	display: inline;
+}
+a{
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 25px;
+	
+}
